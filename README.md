@@ -1,5 +1,5 @@
 
-# Vue #1: Intro till Vue med CDN
+# Vue #1: Intro till Vue 
 👋 Se föreläsningen i onsdags ✅ 
 
 **Syftet med denna workshop:** Öva på grunderna i Vue med CDN. Workshopen går igenom template syntax, olika direktiv som v-if, v-else-if, v-else, v-for, v-bind samt hur data property, methods, computed properties samt watchers.
